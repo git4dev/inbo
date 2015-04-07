@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # inbo
 Lord of the Rings  
-=======
-# inbo  
+"Design patterns"  
 "Het gouden ei"  
->>>>>>> 48cf7d3d6b53ce28d80e40f57622790426d525dc
+"Thoreau. Walden."
