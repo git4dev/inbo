@@ -1,3 +1,6 @@
-# inbo
 
-# 1984
+# inbo
+# "1984"
+"Design patterns"  
+"Het gouden ei"  
+
